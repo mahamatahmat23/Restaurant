@@ -1,0 +1,8 @@
+C:\Users\maham\source\repos\Restaurant\Restaurant.Utility\bin\Debug\netcoreapp3.1\Restaurant.Utility.deps.json
+C:\Users\maham\source\repos\Restaurant\Restaurant.Utility\bin\Debug\netcoreapp3.1\Restaurant.Utility.dll
+C:\Users\maham\source\repos\Restaurant\Restaurant.Utility\bin\Debug\netcoreapp3.1\Restaurant.Utility.pdb
+C:\Users\maham\source\repos\Restaurant\Restaurant.Utility\obj\Debug\netcoreapp3.1\Restaurant.Utility.csprojAssemblyReference.cache
+C:\Users\maham\source\repos\Restaurant\Restaurant.Utility\obj\Debug\netcoreapp3.1\Restaurant.Utility.AssemblyInfoInputs.cache
+C:\Users\maham\source\repos\Restaurant\Restaurant.Utility\obj\Debug\netcoreapp3.1\Restaurant.Utility.AssemblyInfo.cs
+C:\Users\maham\source\repos\Restaurant\Restaurant.Utility\obj\Debug\netcoreapp3.1\Restaurant.Utility.dll
+C:\Users\maham\source\repos\Restaurant\Restaurant.Utility\obj\Debug\netcoreapp3.1\Restaurant.Utility.pdb
